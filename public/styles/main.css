@@ -13,6 +13,7 @@ html {
 body {
   font-family: monospace;
   height: 100%;
+  background-color: red;
 }
 h1 {
   width: 100%;
@@ -37,6 +38,7 @@ h1 {
   display: grid;
   grid-template-columns: 1fr 1fr 80px;
   grid-column-gap: 10px;
+  font-family: helvetica, sans-serif;
 }
 .form-submit {
   outline: none;
